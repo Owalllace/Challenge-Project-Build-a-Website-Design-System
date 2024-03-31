@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Header Section*/
+.header {
+    text-align: center;
+    border: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+}
+
+/* Beginning of Color Section*/
+
+.colors, .beige, .greige, .offwhite, .crackedpepper {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 10px;
+    border: solid;
+}
+
+
+.beige { 
+	background: #faf6e9; 
+}
+	
+.greige { 
+	background: #ece8d9; 
+}
+
+.offwhite { 
+	background: #fffdf6; 
+}
+
+.crackedpepper { 
+	background: #494949; 
+    color: white;
+}
+
+/* End of Color Section */
+
+/* Beginning of Font Section */
+
+.fonts {
+    border: solid;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* End of Font Section */
+
+/* Beginning of text styling */
+
+.textstyles {
+    border: solid;
+    line-height: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+
